@@ -15,13 +15,13 @@ This write-up summarizes my work during the Excelerate Cyber Risk & Compliance I
 
 ## 2. **Key Project: Cyber Risk Assessment for a Remote Startup**
 
-### ✅ **Project Description**
+###  **Project Description**
 I conducted a multi-phase cyber risk assessment for a fully remote e-commerce startup. The environment relied heavily on cloud-based tools such as productivity suites, financial platforms, and communication channels.
 
-### ✅ **Challenge**
+###  **Challenge**
 The organization had no formal security policies and minimal governance. Several practices, including shared credentials, lack of MFA, and informal data handling introduced significant risks. A notable issue involved a **high-risk vulnerability in a mission-critical internal application**.
 
-### ✅ **Actions Taken**
+###  **Actions Taken**
 - Mapped all business assets (data, users, tools, workflows).  
 - Identified threats and vulnerabilities through structured analysis.  
 - Conducted likelihood and impact scoring to prioritize risks.  
@@ -29,7 +29,7 @@ The organization had no formal security policies and minimal governance. Several
 - Drafted a full Cyber Risk & Compliance Report with recommendations.  
 - Developed a realistic compliance roadmap tailored to a startup environment.
 
-### ✅ **Impact / Outcome**
+###  **Impact / Outcome**
 - Produced a structured **risk register**, improving visibility on high-priority risks.  
 - Highlighted compliance gaps and proposed practical mitigation steps.  
 - Improved the organization’s alignment with globally recognized frameworks.  
@@ -39,7 +39,7 @@ The organization had no formal security policies and minimal governance. Several
 
 ## 3. **Policy Drafting & Control Mapping**
 
-### ✅ **Key Deliverable**
+###  **Key Deliverable**
 A complete **Cyber Risk & Compliance Report** that included:
 
 - Asset inventory  
@@ -49,7 +49,7 @@ A complete **Cyber Risk & Compliance Report** that included:
 - Risk mitigation recommendations  
 - Short- and long-term compliance roadmap  
 
-### ✅ **Control Mapping (NIST CSF & ISO 27001)**
+###  **Control Mapping (NIST CSF & ISO 27001)**
 Each identified risk was aligned with relevant control categories. Examples (generalized):
 
 | **Risk Area** | **NIST CSF Category** | **ISO 27001 Control** |
@@ -60,7 +60,7 @@ Each identified risk was aligned with relevant control categories. Examples (gen
 | Missing employee awareness training | PR.AT – Security Awareness | A.6.3 – Training & Awareness |
 | No centralized logging | DE.CM – Continuous Monitoring | A.8.16 – Logging & Monitoring |
 
-### ✅ **Skills Highlighted**
+###  **Skills Highlighted**
 - Risk analysis & prioritization  
 - Security policy comprehension  
 - Compliance frameworks (NIST & ISO 27001)  
@@ -72,20 +72,20 @@ Each identified risk was aligned with relevant control categories. Examples (gen
 
 ## 4. **Key Learning & Professional Takeaways**
 
-### ✅ **1. Clear Understanding of Compliance vs Technical Security**
+###  **1. Clear Understanding of Compliance vs Technical Security**
 This internship helped me understand the distinction between:
 - **Security policy (the why & what)** – purpose, expectations, control requirements  
 - **Technical implementation (the how)** – configurations, tools, and security measures  
 
 I learned how policies drive technical decisions and how technical findings inform governance.
 
-### ✅ **2. Stronger Communication Skills**
+###  **2. Stronger Communication Skills**
 I practiced:
 - Summarizing technical risks for non-technical managers  
 - Writing executive summaries, risk statements, and reports  
 - Presenting findings in a clear business-oriented language  
 
-### ✅ **3. Practical GRC Experience**
+###  **3. Practical GRC Experience**
 I gained hands-on exposure to:
 - Risk scoring  
 - Gap analysis  
@@ -93,7 +93,7 @@ I gained hands-on exposure to:
 - Compliance roadmapping  
 - Drafting realistic recommendations  
 
-### ✅ **4. Future Goal**
+###  **4. Future Goal**
 My goal is to continue growing as a cybersecurity professional who can bridge:
 - Technical insights  
 - Business risk  
