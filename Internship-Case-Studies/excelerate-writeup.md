@@ -19,7 +19,7 @@ This write-up summarizes my work during the Excelerate Cyber Risk & Compliance I
 I conducted a multi-phase cyber risk assessment for a fully remote e-commerce startup. The environment relied heavily on cloud-based tools such as productivity suites, financial platforms, and communication channels.
 
 ### ✅ **Challenge**
-The organization had no formal security policies and minimal governance. Several practices, including shared credentials, lack of MFA, and informal data handling—introduced significant risks. A notable issue involved a **high-risk vulnerability in a mission-critical internal application** (generalized to maintain confidentiality).
+The organization had no formal security policies and minimal governance. Several practices, including shared credentials, lack of MFA, and informal data handling introduced significant risks. A notable issue involved a **high-risk vulnerability in a mission-critical internal application**.
 
 ### ✅ **Actions Taken**
 - Mapped all business assets (data, users, tools, workflows).  
