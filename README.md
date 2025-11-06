@@ -32,7 +32,7 @@ This repository is organized into folders that showcase my work across different
 
 | Project | Focus Area | Write-up |
 | :--- | :--- | :--- |
-| **Excelerate Cyber Risk & Compliance Internship** | Risk Assessment, Compliance Gap Analysis, Report Writing | [Read Write-up](Internship-Case-Studies/excelerate-writeup.md) |
+| **Excelerate Cyber Risk & Compliance Internship** | Risk Assessment, Compliance Gap Analysis, Report Writing | [Read Write-up](https://github.com/FranklineO-sec/Cyber-Security-Writeups/blob/main/Internship-Case-Studies/excelerate-writeup.md) |
 
 This section will expand as I complete more professional or simulated case studies in Governance, Risk, and Compliance.
 
