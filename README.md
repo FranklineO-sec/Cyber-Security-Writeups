@@ -10,7 +10,7 @@ This repository highlights my “T-shaped” cybersecurity skill set:
    Hands-on experience identifying, exploiting, and defending systems through Capture The Flag (CTF) challenges and virtual labs on platforms such as Hack The Box (HTB) and TryHackMe (THM).
 
 2. **Governance, Risk & Compliance (GRC):**  
-   Practical experience translating technical findings into policies, risk registers, and compliance documentation—demonstrated through a structured, multi-week cybersecurity internship with *Excelerate*.
+   Practical experience translating technical findings into policies, risk registers, and compliance documentation demonstrated through a structured, 4 weeks cybersecurity internship with *Excelerate*.
 
 My goal is to bridge technical understanding with strong GRC fundamentals, ensuring that organizations can manage risk effectively while aligning security controls with frameworks like **NIST CSF** and **ISO 27001**.
 
@@ -52,15 +52,15 @@ More write-ups will be added as they are finalized and documented.
 
 ## **Purpose of This Portfolio**
 
-This repository showcases my progression as a cybersecurity professional—  
-not just the technical challenges I solve, but *how I think*, *how I communicate*, and *how I approach security from both a technical and governance perspective*.
+This repository showcases my progression as a cybersecurity professional, including the technical challenges I solve, and *how I think*, *how I communicate*, and *how I approach security from both a technical and governance perspective*.
 
 My long-term goal is to build a career that blends:
+-Secure system design
 - Risk assessment  
 - Compliance frameworks  
 - Technical troubleshooting  
 - Policy and governance  
-- Secure system design  
+
 
 ---
 
