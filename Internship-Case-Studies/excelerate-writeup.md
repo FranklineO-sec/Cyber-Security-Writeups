@@ -70,7 +70,42 @@ Each identified risk was aligned with relevant control categories. Examples (gen
 
 ---
 
-## 4. **Key Learning & Professional Takeaways**
+## 4. **Mitigation Strategies (High-Level Summary)**
+
+### ✅ **1. Strengthen Access Controls**
+- Enforce MFA for all accounts  
+- Implement role-based access control (RBAC)  
+- Remove shared credentials  
+
+### ✅ **2. Improve Data Protection**
+- Restrict public sharing of sensitive files  
+- Apply encryption at rest and in transit  
+- Implement least-privilege access  
+
+### ✅ **3. Build Security Awareness**
+- Regular staff training  
+- Phishing awareness sessions  
+- Monthly refresher modules  
+
+### ✅ **4. Establish Incident Response Capability**
+- Draft a lightweight incident response procedure  
+- Assign roles and responsibilities  
+- Conduct tabletop exercises  
+
+### ✅ **5. Enhance Monitoring & Visibility**
+- Centralize system logs  
+- Enable alerting for unusual activity  
+- Keep audit trails for all admin actions  
+
+### ✅ **6. Strengthen Governance Policies**
+- Access control policy  
+- Acceptable use policy  
+- Secure data handling guidelines  
+- Change management standards
+
+---
+
+## 5. **Key Learning & Professional Takeaways**
 
 ###  **1. Clear Understanding of Compliance vs Technical Security**
 This internship helped me understand the distinction between:
